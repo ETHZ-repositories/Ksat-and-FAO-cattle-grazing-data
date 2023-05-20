@@ -160,7 +160,7 @@ ggplot(Cropland, aes(x= factor(Group,levels = c("0-30", "30-60", "60-150", "150-
 
     ## Warning: Removed 215 rows containing non-finite values (stat_boxplot).
 
-![](FAO_KSAT_grazing_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+![](README_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
 
 ``` r
 ## Samples top soil (30 cm)
@@ -180,7 +180,7 @@ ggplot(Depth_15, aes(x= factor(Group,levels = c("0-30", "30-60", "60-150", "150-
 
     ## Warning: Removed 212 rows containing non-finite values (stat_boxplot).
 
-![](FAO_KSAT_grazing_files/figure-gfm/unnamed-chunk-1-2.png)<!-- -->
+![](README_files/figure-gfm/unnamed-chunk-1-2.png)<!-- -->
 
 ``` r
 ## Grassland
@@ -197,7 +197,7 @@ ggplot(Cropland, aes(x= factor(Group,levels = c("0-30", "30-60", "60-150", "150-
 
     ## Warning: Removed 43 rows containing non-finite values (stat_boxplot).
 
-![](FAO_KSAT_grazing_files/figure-gfm/unnamed-chunk-1-3.png)<!-- -->
+![](README_files/figure-gfm/unnamed-chunk-1-3.png)<!-- -->
 
 ``` r
 ## Samples top soil (30 cm)
@@ -216,4 +216,4 @@ ggplot(Depth_15, aes(x= factor(Group,levels = c("0-30", "30-60", "60-150", "150-
 
     ## Warning: Removed 7 rows containing non-finite values (stat_boxplot).
 
-![](FAO_KSAT_grazing_files/figure-gfm/unnamed-chunk-1-4.png)<!-- -->
+![](README_files/figure-gfm/unnamed-chunk-1-4.png)<!-- -->
